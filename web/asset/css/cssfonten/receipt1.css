@@ -1,0 +1,306 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+aside{
+  width: 16%;
+  height: 100%;
+  float: left;
+  position: relative;
+  background-color:  rgb(61, 61, 61);
+}
+section{
+  background-color:  rgb(61, 61, 61);
+  width: 84%;
+  float: left;
+  height: auto;
+  position: relative;
+  
+}
+.headbar{
+  margin: 20px;
+  padding: 0px 0px 15px;
+  font-size: 30px;
+  color: white;
+  border-bottom: 3px solid rgb(41, 41, 41);
+  position: relative;
+}
+.sr{
+  height: 100;
+}
+.scales{
+  text-align: center !important;
+}
+.box-sales-order{
+
+  margin: 20;
+  display: block;
+  width: 95%;
+  height: auto !important;
+  background-color: white;
+  border-radius: 10px;
+}
+.servict {
+  padding: 0 10;
+  margin: 20;
+  font-size: 24;
+  color: #3B3C66;
+}
+th .project{
+  width: 50%;
+}
+.produck{
+    font-size: 13px;
+    text-align: center;
+    margin: 20;
+    color: #3B3C66;
+    padding: 5;
+    display: block;
+    width: 140px !important;
+    height: 50px !important;
+    border: 1px solid black;
+    float: right !important;
+}
+.p0005{
+  color: #3297FF;
+}
+.sur{
+  margin: auto !important;
+  display: block;
+  width: 98%;
+  border-bottom: 1px solid #BDBDBD;
+}
+.checkbox-disabled{
+  width: 190px;
+  padding: 10;
+}
+.checkbox-disabled input{
+  width: 18;
+  height: 18;
+}
+.name-seller{
+  font-size: 13px;
+  margin: 10 0;
+}
+.name-seller-1{
+  font-size: 13px;
+  color: #000000;
+}
+
+.form-control5{
+  padding: 10;
+  margin: 10 0;
+  width: 100%;
+  height: 30;
+}
+.form-control6{
+padding: 10;
+  margin: 10 0;
+  width: 100%;
+  height: 40;
+
+}
+.day{
+  border: 0px solid white;
+}
+.form-control7{
+  color: blue;
+  padding: 10;
+  margin: 10 0;
+width: 100%;
+height: 40;
+}
+.form-control8{
+  padding: 0 5;
+    font-size: 13px !important;
+    color: blue;
+    margin: 10 0;
+    width: 85%;
+    height: 30;
+}
+.form-control9{
+  color: blue;
+  margin: 10 0;
+width: 69%;
+height: 30;
+}
+.form-control10{
+  padding: 0 5;
+    font-size: 13px !important;
+    color: blue;
+    margin: 10 0;
+    width: 69%;
+    height: 30;
+}
+.form-control11{
+  padding: 0 5;
+    font-size: 13px !important;
+    color: blue;
+    margin: 10 0;
+    width: 92%;
+    height: 30;
+}
+.form-control13{
+  background-color: #f2f2f2;
+    border: white;
+    padding: 0 5;
+    font-size: 13px !important;
+    color: black;
+    margin: 5 0;
+    width: 100%;
+    height: 30;
+}
+.form-control14{
+  background-color: #f2f2f2;
+    border: white;
+    padding: 0 8;
+    font-size: 13px !important;
+    color: black;
+    width: 100%;
+    height: 30;
+}
+.form-control15{
+  background-color: #f2f2f2;
+    border: white;
+    padding: 0 8;
+    font-size: 13px !important;
+    color: black;
+    width: 80%;
+    height: 30;
+}
+.form-control16{
+  background-color: #f2f2f2;
+    border: white;
+    padding: 0 8;
+    font-size: 13px !important;
+    color: black;
+    width: 80%;
+    height: 30;
+}
+.form-control17{
+  background-color: #f2f2f2;
+    border: white;
+    padding: 0 8;
+    font-size: 13px !important;
+    color: black;
+    width: 80%;
+    height: 30;
+}
+.form-control13:hover{
+  background-color: #ececec;
+}
+.name-m1{
+  width: 100%;
+}
+select:disabled {
+  opacity: 1;
+  margin: 5 2;
+}
+.table{
+  padding: 10;
+}
+.button-pprimary{
+  margin: 10 20;
+  
+}
+.Sarapu svg{
+  margin: 16;
+}
+label{
+  font-size: 18 !important;
+  font-weight: 400 !important;
+}
+.checkbox1{
+  text-align: center;
+  width: 15;
+  height: 15;
+  font-size: 20;
+}
+.total{
+  text-align: right;
+}
+.Total-worth{
+  float: right;
+  margin: 0 20;
+  width: 353;
+  height: 73;
+  background-color: #3B3C66;
+  border-radius: 10px;
+  color: white;
+  font-size: 18;
+}
+.total-w{ 
+ padding: 20;
+}
+.worth{
+width: 100%;
+height: 100%;
+}
+.worth{
+  width: 100%;
+  height: 100%;
+  background-color: white;
+}
+.Total-net-worth{
+  font-size: 18;
+
+  width: 100%;
+  height: 100%;
+}
+.name1{
+  padding: 10;
+  color: white;
+}
+.name{
+  color: white;
+  padding: 10;
+  text-align: right;
+}
+.button-42{
+  float: right;
+  margin: 50 20 ;
+}
+.button{
+  font-size: 16px;
+  width: 120;
+  height: 40;
+  background-color: white;
+  border-color:#878787 ;
+  border-radius: 10px;
+}
+.button1{
+  font-size: 16px;
+  width: 130;
+  height: 40;
+  color: white;
+  background-color: #6C6DF2;
+  border-radius: 10px;
+  border-color: white;
+}
+.button2{
+  font-size: 16px;
+  width: 130;
+  height: 40;
+  background-color: #65CDD6;
+  border-radius: 10px ;
+  border-color: white;
+}
+button a{
+  color: #3b3c66;
+  text-decoration: none;
+}
+button a:hover{
+  color: white;
+  text-decoration: none;
+}
+input#day {
+  text-align: center;
+}
+.xo{
+  margin: auto;
+  padding: 0 10;
+}
+td {
+  text-align: center;
+}

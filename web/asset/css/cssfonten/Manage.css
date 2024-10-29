@@ -1,0 +1,90 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+aside{
+  width: 16%;
+  height: 100%;
+  float: left;
+  position: relative;
+  background-color:  rgb(61, 61, 61);
+
+}
+section{
+  background-color:  rgb(61, 61, 61);
+  width: 84%;
+  float: left;
+  height: auto;
+  position: relative;
+  
+}
+td {
+  padding: 5px !important;
+}
+
+.headbar{
+  margin: 10px ;
+  padding: 0px 0px 10px;
+  font-size: 30px;
+  color: white;
+  border-bottom: 3px solid rgb(41, 41, 41);
+}
+.account{
+  padding: 0 20 ;
+  color: white;
+  font-size: 18;
+
+}
+.row{
+  margin-left: 0px !important;
+  margin-right: 0px !important;
+}
+.box1{
+  margin: 15;
+  width: 280px;
+  height: 155px;
+  background-color: white;
+  border-radius: 10px;
+}
+.Sales-tax{
+  color: #40406B;
+  font-size: 18;
+}
+td.debt{
+  padding: 10 20px !important;
+}
+.line{
+  border-bottom: 1px solid black;
+}
+.S{
+  margin:  15 auto;
+  padding: 15 0;
+  display: block;
+  width: 270;
+  border-top: 2px solid black;;
+}
+.number{
+  width: 150px !important;
+}
+.number-1{
+  width: 150px !important;
+  text-align: right !important;
+  padding: 0 10 !important;
+}
+.seve{
+  margin: 0 5;
+  color: white;
+  font-size: 18;
+}
+.box-seve{
+  margin:  20 10;
+  background-color: whitesmoke;
+  width: 90%;
+  height: 350px !important;
+  border-radius: 10px;
+}
+.chart{
+  width: 70;
+  height: 100;
+}

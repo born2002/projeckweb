@@ -1,0 +1,413 @@
+*{
+  margin: 0;
+  padding: 0s;
+  box-sizing: border-box;
+}
+aside{
+ 
+  width: 16%;
+  height: 100%;
+  float: left;
+  position: relative;
+  background-color:  rgb(61, 61, 61);
+
+}
+section{
+  background-color:  rgb(61, 61, 61);
+  width: 84%;
+  float: left;
+  height: auto;
+  position: relative;
+  
+}
+.headbar{
+  margin: 10px ;
+  padding: 0px 0px 10px;
+  font-size: 30px;
+  color: white;
+  border-bottom: 3px solid rgb(41, 41, 41);
+}
+.black-l{
+  position: absolute;
+  left: 94%;
+  width: 60px;
+  height: 40px;
+  background-color:#D9D9D9;
+  border-radius: 20px;
+}
+.black-r{
+  position: absolute;
+  right: 94%;
+  width: 60px;
+  height: 40px;
+  background-color:#D9D9D9;
+  border-radius: 20px;
+}
+.box1{
+  margin: auto;
+  width: 80%  !important;
+  height: 280px !important;
+  background-color:white !important; 
+  border-radius: 190px ;
+  box-sizing: border-box !important;
+
+}
+.box2{
+  width: 99% !important;
+  height: 280px !important;
+  background-color: white ;
+  border-radius: 10px !important;
+}
+.box3{
+  margin: auto !important;
+  padding: 20px !important;
+  width: 100%  !important;
+  height: 320 !important;
+  background-color:white !important; 
+  border-radius: 10px ;
+
+}
+.body-box3{
+  padding: 20px;
+}
+.dropdown, .dropup {
+  position: relative;
+  left: 88%;
+ 
+}
+/* .dropbtn:hover, .dropbtn:focus {
+  background-color:white;
+} */
+
+.dropdown {
+  width: 50px;
+  background-color: white !important;
+  position: relative;
+  display: inline-block;
+  padding: 5;
+  right: 5;
+}
+
+.dropdown-content {
+  display: none;
+  position: absolute;
+   text-align: center !important;
+  min-width: 160px;
+  overflow: auto;
+  z-index: 1;
+  margin: 5 0;
+}
+
+.dropdown-content a {
+ background-color:#FFF5EE  !important; 
+ border-color: rgb(239, 78, 7);
+  color: rgb(239, 78, 7) !important;
+  padding: 12px 16px;
+  display: block;
+
+}
+
+.dropdown a:hover {
+ color:  white!important;
+ background-color: rgb(239, 78, 7) !important;
+ border-color: rgb(239, 78, 7);
+ transition: all 0.5s ease;
+  text-decoration: none;
+}
+
+.show {display: block;}
+button.dropbtn {
+  border: none;
+  background-color: white;
+}
+
+.warning {
+  margin: auto;
+  display: block;
+  width: 300px;
+  height: 45px;
+  background-color: white !important;
+  color: rgb(239, 78, 7) !important;
+  border-color:rgb(239, 78, 7) !important;
+  border-radius: 15px !important;
+
+
+}
+.warning:hover {
+  color:  white!important;
+  background-color: rgb(239, 78, 7) !important;
+  border-color: rgb(239, 78, 7);
+  transition: all 0.5s ease;
+}
+.row{
+  padding: 5;
+}
+th.name1 {
+  text-align: right;
+}
+table{
+  padding: 2rem !important;
+}
+.Crosswalk {
+  position: relative;
+  bottom: 40px;
+}
+.modal-title {
+  font-size: 24px;
+  
+}
+.modal-content{
+  position: relative;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+  width: 1300px !important;
+  height: auto !important; 
+  border-radius: 10px !important;
+  
+
+}
+
+.primary{
+  text-align: center !important;
+  width: 100px !important;
+  height: 50px !important;
+  background-color: white;
+  border-color: rgb(239, 78, 7);
+  color: rgb(239, 78, 7);
+  border-radius: 20px !important;
+
+}
+.primary:hover{
+  background-color: rgb(239, 78, 7) !important;
+  color: white !important;
+  translate: all 0.5 !important;
+}
+.default{
+  text-align: center !important;
+  width: 100px !important;
+  height: 50px !important;
+  background-color: white;
+  border-color: rgb(239, 78, 7);
+  color: rgb(239, 78, 7);
+  border-radius: 20px !important;
+}
+.default:hover{
+
+  background-color: rgb(239, 78, 7) !important;
+  color: white !important;
+  translate: all 0.5 !important;
+}
+
+.file {
+  margin-bottom: 15px  !important;
+  width: 200px !important;
+  height: 200px !important;
+  background-color: white !important;
+  border-radius: 50% !important;
+  position: relative;
+  left: 50%;
+  transform: translateX(-100px);
+ 
+}
+.form-control1{
+  margin: 2rem;
+  width: 100px;
+  height: 4rem ;
+  color: black !important;
+  border-radius: 10px !important;
+  text-align: center;
+}
+.form-control2{
+  margin: 2rem;
+  width: 190px;
+  height: 4rem ;
+  border-radius: 10px !important;
+  text-align: center;
+}
+.form-control13{
+  color: black ;
+  margin: 2rem;
+  width: 261px !important;
+  height: 4rem ;
+  border-radius: 10px !important;
+  text-align: center;
+  
+  
+}
+.form-control4{
+  margin: 2rem;
+  width: 335px !important;
+  height: 4rem ;
+  border-radius: 10px !important;
+  text-align: center;
+}
+.form-control5{
+  margin: 2rem;
+  width: 90% !important;
+  height: 4rem ;
+  border-radius: 10px !important;
+  text-align: center;
+}
+.form-control6{
+  margin: 2rem;
+  width: 41% !important;
+  height: 4rem ;
+  border-radius: 10px !important;
+  text-align: center;
+}
+
+.form-control7{
+  padding: 10;
+  margin: 2rem;
+  width: 76% !important;
+  height: 4rem ;
+  border-radius: 10px !important;
+  
+}
+.form-control8{
+  margin: 2rem;
+  width: 44% !important;
+  height: 5rem ;
+  border-radius: 10px !important;
+  text-align: center;
+}
+.form-control9{
+  padding: 10;
+  margin: 2rem;
+  width: 90% !important;
+  height: 4rem ;
+  border-radius: 10px !important;
+  
+}
+.form-control11{
+  margin: 2rem;
+  width: 90% !important;
+  height: 15rem ;
+  border-radius: 10px !important;
+  text-align: center;
+}
+.form-control14{
+  margin: 2rem;
+  width: 90% !important;
+  height: 4rem ;
+  border-radius: 10px !important;
+  text-align: center;
+}
+.tranform{
+  border-right: 3px solid rgb(189, 189, 189) !important;
+  box-shadow: 5rem #7C7C7C  !important;
+
+}
+.modal-header{
+  border-bottom: 1px solid rgb(189, 189, 189) !important;
+}
+.modal-body{
+  border-bottom: 1px solid rgb(189, 189, 189) !important;
+}
+
+.iles{
+  position: relative !important;
+  left: 50% !important;
+
+}
+.file-preview{
+  text-align: center !important;
+  position: relative !important;
+  left: 50% !important;
+  transform: translateX(-50%) !important;
+}
+.saction-input-file{
+  margin-bottom: 30px !important;
+}
+.button-label{
+  position: relative !important;
+  left: 45% ;
+  padding: 2rem ;
+}
+.warning1{
+  border-radius: 10px !important;
+  color:rgb(239, 78, 7);
+  width: 80px ;
+  height: 40px;
+  background-color: white;
+  border-color: rgb(239, 78, 7);
+}
+.warning1:hover{
+  background-color: rgb(239, 78, 7) !important;
+  color: white !important;
+  translate: all 0.5 !important;
+}
+.saction-input-file img{
+  border-radius: 50% !important;
+  background-color: #FDF5E6;
+}
+.name-borisuth{
+  display: flex;
+ justify-content: center;
+}
+.contro3{
+  margin: 20 0 0;
+}
+input[type="image"] {
+  margin: 10 23  -5;
+}
+.personal{
+  color: #3B3C66;
+  padding: 10;
+  position: absolute;
+  font-size: 20px
+}
+.name-e-1{
+  text-align: right;
+  padding: 10 20   ;
+  color: #3B3C66;
+}
+.name-e-2{
+  padding: 3 20;
+  color: #3B3C66;
+}
+.n{
+  padding: 0 20;
+}
+
+.col-3.cl {
+  margin: -15 50px;
+}
+.col-3.ci {
+  margin: 0 50px;
+}
+
+.name-e {
+  margin: 0 30;
+  padding: auto;
+}
+.Wages{
+  color: #3B3C66;
+  position: absolute;
+  font-size: 18px
+}
+.name-e-3-2{
+  padding: 3 50;
+  color: #3B3C66;
+}
+.name-e-3-1{
+  padding: 3 50 0 12;
+  color: #3B3C66;
+}
+.box2 th,td{
+  font-weight: 200;
+  padding: 9 0 9 0  ;
+}
+.box3 th,td{
+  font-weight: 200;
+  padding: 5 0 13 0  ;
+}
+.box th,td{
+  padding: 15 0 15 0  ;
+}
+.box5 th,td{
+  padding: 15 0 15 0  ;
+}
+.butt{
+  width: 100%;
+}

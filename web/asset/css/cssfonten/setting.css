@@ -1,0 +1,246 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+aside{
+  width: 16%;
+  height: 100%;
+  float: left;
+  position: relative;
+  background-color:  rgb(61, 61, 61);
+}
+
+section{
+  background-color:  rgb(61, 61, 61);
+  width: 84%;
+  float: left;
+  height: 100%;
+  position: relative;
+}
+
+.headbar{
+  margin: 20px;
+  padding: 0px 0px 15px;
+  font-size: 30px;
+  color: white;
+  border-bottom: 3px solid rgb(41, 41, 41);
+  position: relative;
+}
+
+.logo{
+  margin: 0 20;
+  padding: 5 0;
+  font-size: 20px;
+  color: white;
+}
+
+.Withholding-tax{
+  margin: 0 20;
+  padding: 5 0;
+  font-size: 20px;
+  color: white;
+}
+
+.VAT{
+  margin: 0 20;
+  padding: 5 0;
+  font-size: 20px;
+  color: white;
+}
+
+.Company-information{
+  margin: 0 20;
+  padding: 5 0;
+  font-size: 20px;
+  color: white;
+}
+
+.salary{
+  margin: 0 20;
+  padding: 5 0;
+  font-size: 20px;
+  color: white
+}
+
+.panel-heading{
+  background-color: white;
+}
+
+.panel-group .panel {
+  height: auto;
+  margin: 20;
+  border-radius: 4px;
+}
+
+div#headingTwo {
+  color: white;
+  background-color: rgb(61, 61, 61);
+  border: none;
+}
+
+.panel-heading {
+  padding: 10px 15px;
+}
+
+.panel-body {
+  margin: 20;
+}
+
+.panel-title {
+  padding: 0 10;
+  margin-top: 0;
+  margin-bottom: 0;
+  font-size: 16px;
+  color: inherit;
+}
+
+.HOT{
+  color: white;
+  padding: 20;
+}
+
+.saction-input-file {
+  text-align: center;
+}
+
+img#preview-file {
+  margin: 10;
+}
+
+a:focus, a:hover {
+  color: white !important;
+  text-decoration: none !important;
+}
+
+.HOT1{
+  color: white;                                  
+}
+
+.hr1{
+  margin: 10 0;
+}
+
+svg:not(:root) {
+  margin: 0 15;
+  overflow: hidden;
+}
+
+.vat {
+  color: black;
+}
+
+.well{
+  text-align: center;
+  margin: 20;
+  width: 600;
+}
+
+.well1{
+  background-color: white !important;
+  margin: 20 !important;
+  width: 600;
+  padding: 20;
+border-radius: 5px
+}
+
+input[type="text"] {
+  padding: 5;
+}
+
+.Company-in{
+  font-size: 24;
+  padding: 5 0 10 0;
+}
+
+label {
+  display: inline-block;
+  max-width: 100%;
+  margin-bottom: 5px;
+  font-weight: 500 !important;
+}
+
+input#lname {
+  width: 100%;
+  text-align: center;
+  font-weight: 200 !important;
+}
+input#fname {
+  text-align: center;
+  font-weight: 200 !important;
+}
+input#lname2 {
+  width: 280;
+  text-align: center;
+  font-weight: 200 !important;
+}
+input#lname1 {
+  text-align: center;
+  font-weight: 200 !important;
+}
+.socal{
+  margin: auto;
+  width: 200;
+  text-align: center;
+}
+label.lanme8 {
+  padding: 15 0 5;
+}
+span.Set-up-salary {
+  font-size: 18;
+}
+.table{
+  background-color: #f5f5f5 !important;
+}
+span.Set-up-salary {
+  display: block;
+  margin: 20 0 0 0;
+  font-size: 24;
+  text-align: center;
+}
+.Payroll{
+  font-size: 16px !important;
+}
+select#selecttype {
+  font-size: 12px;
+}
+.Payroll-information{
+  color: #1a84b5;
+  margin-bottom: 10px;
+}
+.row {
+  margin: 15 0 15 0 !important;
+}
+  
+label.form-check-label {
+  padding: 0 0 0 25px;
+  font-size: 14;
+}
+input[type="text"] {
+  font-size: 14;
+  text-align: center;
+}
+.col-4 {
+  padding: 10;
+  -ms-flex: 0 0 33.333333%;
+  flex: 0 0 33.333333%;
+  max-width: 33.333333%;
+}
+.col-12.srqwe {
+  text-align: end;
+}
+.btn-pr{
+  padding: 10;
+  background-color: #88c435;
+  color: white;
+  border: 1px solid #88c435;
+  border-radius: 10px;
+}
+.btn-pr:hover{
+  background-color: white;
+  color: #88c435;
+}
+.col-8.p10.mars {
+  margin: auto;
+}

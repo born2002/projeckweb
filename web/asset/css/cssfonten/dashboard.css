@@ -1,0 +1,82 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+aside{
+ 
+  width: 16%;
+  height: 100%;
+  float: left;
+  position: relative;
+  background-color:  rgb(61, 61, 61);
+}
+section{
+  background-color:  rgb(61, 61, 61);
+  width: 84%;
+  float: left;
+  height: 100%;
+  position: relative;
+  
+}
+.headbar{
+  margin: 10px ;
+  padding: 0px 0px 10px;
+  font-size: 30px;
+  color: white;
+  border-bottom: 3px solid rgb(41, 41, 41);
+}
+.Dashboad{
+  
+  text-align: center;
+  padding: 10px;
+  font-size: 40px;
+  color: white;
+}
+.container{
+  text-align: center  !important;
+}
+.box1{
+  margin: 30px;
+  padding: 20px;
+  width: 500px;
+  height: 400px;
+  background-color: white;
+  text-align: center;
+  border-radius: 20px;
+  
+}
+.box2{
+  margin: 30px;
+  padding: 20px;
+  width: 500px;
+  height: 400px;
+  background-color: white;
+  text-align: center;
+  border-radius: 20px;
+  font-size: 24px;
+
+}
+.employees{
+  font-size: 24px;
+  color: white;
+}
+.customer {
+  font-size: 24px;
+  color: white;
+}
+.number{
+  font-size: 24px;
+}
+.preple{
+  font-size: 24px;
+  color: #878787;
+}
+h3{
+  padding: 10;
+}
+
+.box1 img, .box2 img {
+  margin: 20;
+
+}

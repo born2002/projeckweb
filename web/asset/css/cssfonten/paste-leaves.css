@@ -1,0 +1,120 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+aside{
+  width: 16%;
+  height: 100%;
+  float: left;
+  position: relative;
+  background-color:  rgb(61, 61, 61);
+}
+section{
+  background-color:  rgb(61, 61, 61);
+  width: 84%;
+  float: left;
+  height: 100%;
+  position: relative;
+  
+}
+.headbar{
+  margin: 10px ;
+  padding: 0px 0px 10px;
+  font-size: 30px;
+  color: white;
+  border-bottom: 3px solid rgb(41, 41, 41);
+}
+.Sales-order{
+  padding: 20;
+  color: white;
+  font-size:18 ;
+}
+.btn-Following{
+  border: 1px solid rgb(239, 78, 7);
+  font-size: 13px;
+  width: 120px;
+  height: 35;
+  background-color: rgb(239, 78, 7);
+  color: white;
+  border-radius: 10px;
+}
+.btn-Following:hover{
+  background-color: white !important;;
+  color: rgb(239, 78, 7);
+  transition: all 0.5s ;
+}
+.btn-Following1{
+  font-size: 13px;
+  width: 138px;
+  height: 35;
+  background-color: white;
+  color: #7C7C7C;
+  border-radius: 10px;
+}
+.btn-Following1 img{
+  padding: 0 0 4;
+}
+label.mb-0 {
+  margin: 10 0 0 0;
+  padding: 0 0 10 0;
+  font-size: 16px;
+  color: white;
+}
+.btn-admin-add{
+  margin: 0 10 !important;
+  font-size: 13px;
+  width: 138px;
+  height: 35;
+  background-color: white  !important;
+  color: white;
+  border-radius: 10px;
+}
+.form-select {
+  height: 35px;
+  --bs-form-select-bg-img: url(data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 16 16'%3e%3cpath fill='none' stroke='%23343a40' stroke-linecap='round' stroke-linejoin='round' stroke-width='2' d='m2 5 6 6 6-6'/%3e%3c/svg%3e);
+  display: block;
+  width: 100%;
+  padding: .375rem 2.25rem .375rem .75rem;
+  font-size: 1rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: var(--bs-body-color);
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  background-color: var(--bs-body-bg);
+  background-image: var(--bs-form-select-bg-img), var(--bs-form-select-bg-icon, none);
+  background-repeat: no-repeat;
+  background-position: right .75rem center;
+  background-size: 16px 12px;
+  border: var(--bs-border-width) solid var(--bs-border-color);
+  border-radius: var(--bs-border-radius);
+  transition: border-color .15s ease-in-out, box-shadow .15s ease-in-out;
+}
+.ขีด{
+color: white;
+}
+th{
+  text-align: center;
+}
+table.star{
+  width: 100%;
+}
+.dt-layout-end {
+  text-align: end;
+}
+nav button{
+  padding: 3;
+  border: none !important;
+}
+
+a.baisrang {
+  text-decoration: none;
+  color: white !important;
+}
+
+a.baisrang:hover{
+  text-decoration: none;
+  color: rgb(239, 78, 7)  !important;
+}
